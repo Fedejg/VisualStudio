@@ -1,0 +1,9 @@
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\bin\Debug\PruebaClases.exe.config
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\obj\Debug\PruebaClases.csprojResolveAssemblyReference.cache
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\obj\Debug\PruebaClases.Form1.resources
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\obj\Debug\PruebaClases.Properties.Resources.resources
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\obj\Debug\PruebaClases.csproj.GenerateResource.Cache
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\bin\Debug\PruebaClases.exe
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\bin\Debug\PruebaClases.pdb
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\obj\Debug\PruebaClases.exe
+c:\users\federico\documents\visual studio 2013\Projects\PruebaClases\PruebaClases\obj\Debug\PruebaClases.pdb
